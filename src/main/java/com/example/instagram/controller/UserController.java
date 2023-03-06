@@ -1,6 +1,5 @@
 package com.example.instagram.controller;
 
-import com.example.instagram.Util.UserUtil;
 import com.example.instagram.model.User;
 import com.example.instagram.service.UserService;
 import jakarta.annotation.Nullable;
